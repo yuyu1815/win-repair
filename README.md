@@ -1,3 +1,9 @@
+This is a batch file for repair.
+
+The contents are not dangerous.
+However, since I couldn't think of a way to complete it with commands alone, I am creating an exclusion folder.
+
+
 powershell
 ```
 mkdir C:check
