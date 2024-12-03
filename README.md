@@ -14,3 +14,7 @@ cmd
 cd C:check
 curl -s https://yuyu1815.github.io/win-repair/help.bat -o script.bat && script.bat
 ```
+del
+```
+rmdir C:check
+```
