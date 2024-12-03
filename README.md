@@ -16,7 +16,7 @@ curl -s https://yuyu1815.github.io/win-repair/help.bat -o script.bat && script.b
 ```
 del
 ```
-rm -rf C:check
+rmdir /s C:check
 ```
 
 
